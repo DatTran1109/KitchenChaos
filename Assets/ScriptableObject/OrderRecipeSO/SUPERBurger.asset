@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fac7fee2ed62bb40b71c2518b9de6f1, type: 3}
+  m_Name: SUPERBurger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: cf3c59a0a021c7040b0746bf7fc44b3e, type: 2}
+  - {fileID: 11400000, guid: 2ca9462c6399df0479d64210fdf8be05, type: 2}
+  - {fileID: 11400000, guid: 06ccbce2c45d6ec408fd8e966aeb90cc, type: 2}
+  - {fileID: 11400000, guid: 6a076acccd5d9684f84bbc6ad063da18, type: 2}
+  - {fileID: 11400000, guid: 4e8e670e49679d5448d3317cf7f79df4, type: 2}
+  - {fileID: 11400000, guid: 2ca9462c6399df0479d64210fdf8be05, type: 2}
+  - {fileID: 11400000, guid: 4e8e670e49679d5448d3317cf7f79df4, type: 2}
+  orderRecipeName: SUPERBurger
+  score: 7
